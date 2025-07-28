@@ -18,7 +18,7 @@ Writing and Cultural Material Practices
 Human and Non-Human Relationality
 Composition, Rhetoric, and Multicultural Pedagogies
 
-# Publications
+Publications
 ======
 Peer Reviewed Journal Articles
 Beckson, Boatemaa Mavis. “Transforming Feminist Narratives and Participation of African Marginalized Women Through Ceremonial Beads.” Peitho Journal, Volume 22, Issue 3, Spring 2020.
