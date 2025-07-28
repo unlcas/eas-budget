@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Mavis Beckson"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
