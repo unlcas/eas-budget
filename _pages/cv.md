@@ -14,8 +14,8 @@ redirect_from:
 * Ph.D
 * M.S.
 * B.S.
-
-
+\
+\
 <hr>
 
 
@@ -24,7 +24,8 @@ redirect_from:
 * 2025
 * Fall 2015: Research Assistant
 * Summer 2015: Research Assistant
-
+\
+\
 <hr>
 
 ## Publications
