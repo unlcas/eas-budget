@@ -22,17 +22,19 @@ Composition, Rhetoric, and Multicultural Pedagogies
 
 # Publications
 
-Peer Reviewed Journal Articles
+**Peer Reviewed Journal Articles**
 Beckson, Boatemaa Mavis. “Transforming Feminist Narratives and Participation of African Marginalized Women Through Ceremonial Beads.” Peitho Journal, Volume 22, Issue 3, Spring 2020.
 
-Book Reviews
-Review of Black or Right: Anti/Racist Campus Rhetorics by Louis M. Maraj. Rhetoric Society Quarterly, Volume 52, Issue 2, May 2022.
-Review of Black Perspectives in Writing Program Administration: From Margins to Center. Edited by Stacy Perryman-Clark and Collin Lamont Craig. College Composition and Communication, Volume 73, No.1, September 2021.
-Review of Culturally Speaking: The Rhetoric of Voice and Identity in Mediated Culture by Edgar, Nell Amanda. Peitho Journal, Volume 23, Issue 1, Fall 2020.
+**Book Reviews**
+- Review of Black or Right: Anti/Racist Campus Rhetorics by Louis M. Maraj. Rhetoric Society Quarterly, Volume 52, Issue 2, May 2022.
+- Review of Black Perspectives in Writing Program Administration: From Margins to Center. Edited by Stacy Perryman-Clark and Collin Lamont Craig. College Composition and Communication, Volume 73, No.1, September 2021.
+- Review of Culturally Speaking: The Rhetoric of Voice and Identity in Mediated Culture by Edgar, Nell Amanda. Peitho Journal, Volume 23, Issue 1, Fall 2020.
 
-In Progress
+**In Progress**
 Beckson, Boatemaa Mavis. “On Being Black African Immigrant Teacher: Rethinking Representation at the Intersection of Language, Race, and Inclusivity in Higher Education.” To be published in The Black Caucus Project Collection. Edited by Richard Green and Jamal Cooks. NCTE PRESS. Tentative publication year, 2023.
 
 # Education
 
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header
+- Ph.D. (2023), New Mexico State University
+- M.A. (2018), New Mexico State University
+- B.A. (2015), Kwame Nkrumah University of Science and Technology
