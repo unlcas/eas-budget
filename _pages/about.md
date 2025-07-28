@@ -20,6 +20,8 @@ Writing and Cultural Material Practices
 Human and Non-Human Relationality
 Composition, Rhetoric, and Multicultural Pedagogies
 
+<hr>
+
 # Publications
 
 **Peer Reviewed Journal Articles**
@@ -32,6 +34,8 @@ Beckson, Boatemaa Mavis. “Transforming Feminist Narratives and Participation o
 
 **In Progress**
 Beckson, Boatemaa Mavis. “On Being Black African Immigrant Teacher: Rethinking Representation at the Intersection of Language, Race, and Inclusivity in Higher Education.” To be published in The Black Caucus Project Collection. Edited by Richard Green and Jamal Cooks. NCTE PRESS. Tentative publication year, 2023.
+
+<hr>
 
 # Education
 
