@@ -15,11 +15,11 @@ Based on these embodied experiences, I have grown to understand the importance o
 
 # Areas of Interest
 
-African Feminisms
-Digital and Cultural Media
-Global Black feminisms
-Writing and Cultural Material Practices
-Human and Non-Human Relationality
+African Feminisms\
+Digital and Cultural Media\
+Global Black feminisms\
+Writing and Cultural Material Practices\
+Human and Non-Human Relationality\
 Composition, Rhetoric, and Multicultural Pedagogies
 
 <hr>
