@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-As a Black woman born in Ghana, West Africa, and currently living in the U.S., I have had the privilege of being a student in two different cultural settings, and had the opportunity of knowing what it is like to learn from teachers who cultivate their classrooms to accommodate and appreciate the diversity their students bring to these spaces. I also know what it is like to not feel seen or heard. Based on these embodied experiences, I have grown to understand the importance of cultivating teaching pedagogies and learning practices that are grounded in equity and inclusivity. With a particular focus on African and minoritized communities and coalitional mediated activism, my work follows African feminist and cultural relationality with material things, especially how these material objects shape lives and agency in multicultural African spaces. My work makes space for Black African women’s cultural practices that shed light on communal resilience, uncommon rhetorical performances, and digital material contexts.
+As a Black woman born in Ghana, West Africa, and currently living in the U.S., I have had the privilege of being a student in two different cultural settings, and had the opportunity of knowing what it is like to learn from teachers who cultivate their classrooms to accommodate and appreciate the diversity their students bring to these spaces. I also know what it is like to not feel seen or heard.
+
+Based on these embodied experiences, I have grown to understand the importance of cultivating teaching pedagogies and learning practices that are grounded in equity and inclusivity. With a particular focus on African and minoritized communities and coalitional mediated activism, my work follows African feminist and cultural relationality with material things, especially how these material objects shape lives and agency in multicultural African spaces. My work makes space for Black African women’s cultural practices that shed light on communal resilience, uncommon rhetorical performances, and digital material contexts.
 
 <hr>
 
