@@ -9,15 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+## Education
 
 * Ph.D
 * M.S.
 * B.S.
 
+
 <hr>
 
-# Experience
+
+## Experience
 
 * 2025
 * Fall 2015: Research Assistant
@@ -25,7 +27,7 @@ redirect_from:
 
 <hr>
 
-# Publications
+## Publications
 
 - First
 - Second
