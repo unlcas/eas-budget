@@ -17,7 +17,7 @@ Based on these embodied experiences, I have grown to understand the importance o
 
 African Feminisms\
 Digital and Cultural Media\
-Global Black feminisms\
+Global Black Feminisms\
 Writing and Cultural Material Practices\
 Human and Non-Human Relationality\
 Composition, Rhetoric, and Multicultural Pedagogies
