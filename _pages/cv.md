@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-- Ph.D
-- M.S.
-- B.S.
+- Ph.D. (2023), New Mexico State University
+- M.A. (2018), New Mexico State University
+- B.A. (2015), Kwame Nkrumah University of Science and Technology
 
 
 <hr>
