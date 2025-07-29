@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Mavis Beckson"
+title                    : "Mavis Boatemaa Beckson"
 title_separator          : "-"
 name                     : &name "Mavis Beckson"
 description              : &description "Mavis Beckson's Webpage"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "https://engl.unl.edu/sites/unl.edu.cas.english/files/styles/1_1_960x960/public/node/person/photo/2024-12/Mavis_Beckson-sq.jpg"
-  name             : "Mavis Boatemaa Beckson"
+  name             : # name
   bio              : "Assistant Professor, Department of English"
   location         : "Lincoln, NE"
   employer         : "University of Nebraska–Lincoln"
