@@ -13,7 +13,7 @@ Based on these embodied experiences, I have grown to understand the importance o
 
 <hr>
 
-# Areas of Interest
+## Areas of Interest
 
 African Feminisms\
 Digital and Cultural Media\
@@ -24,7 +24,7 @@ Composition, Rhetoric, and Multicultural Pedagogies
 
 <hr>
 
-# Selected Publications
+## Selected Publications
 
 Beckson, Boatemaa Mavis. “Transforming Feminist Narratives and Participation of African Marginalized Women Through Ceremonial Beads.” Peitho Journal, Volume 22, Issue 3, Spring 2020.
 
