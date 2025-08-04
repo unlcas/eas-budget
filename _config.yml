@@ -41,6 +41,8 @@ author:
   researchgate     : # URL
   scopus           : # URL   
 
+# Social media
+  linkedin         : mavis-beckson-ph-d-287381113
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
@@ -109,7 +111,7 @@ og_description           :  # Social media default site image description
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
-  LinkedIn                   : https://www.linkedin.com/in/mavis-beckson-ph-d-287381113/
+  name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 
