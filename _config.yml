@@ -13,7 +13,7 @@ title                    : "EAS Budget Information"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "EAS Budget Information"
-url                      : https://mbeckson2.github.io
+url                      : https://unlcas.github.io/eas-budget
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://engl.unl.edu/sites/unl.edu.cas.english/files/styles/1_1_960x960/public/node/person/photo/2024-12/Mavis_Beckson-sq.jpg"
+  avatar           : # url
   name             : # name
-  bio              : "Assistant Professor, Department of English"
+  bio              : "Department of Earth and Atmospheric Sciences"
   location         : "Lincoln, NE"
   employer         : "University of Nebraska–Lincoln"
   uri              : # URL
