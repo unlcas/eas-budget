@@ -23,7 +23,7 @@ Cutting EAS would mean cutting research and education on <a href="https://nebras
 
 Dr. Clinton Rowe, EAS Department Chair
 
-Read the full statement
+<a href="files/EAS_quick_facts.pdf">Read the full statement</a>
 
 <hr>
 
@@ -70,15 +70,15 @@ These will be used to show the APC - and the public - why our department matters
 <details><summary>What is the university proposing?</summary>
 UNL is proposing to eliminate the Geology and Meteorology majors from undergrad to PhD level, and fire staff and faculty in the Department of Earth and Atmospheric Sciences, including tenured faculty. The university says that it will retain “High-performing faculty… within other UNL units to preserve educational pathways and research expertise.” The department has about 17 FTE (Full-Time Equivalent) and UNL is proposing to fire 12.
 </details>
-
+\
 <details><summary>I’m a current student. What does this proposal mean for me?</summary>
 Right now, keep doing what you’re doing. Executive Vice Chancellor Mark Button has stated that the university cares about student success, and has assured the department that students who have begun their program will be able to finish it. When asked for details, Dr. Button was unable to provide a plan. However, a commitment to student success is what has kept most EAS faculty members in academia, rather than in the more lucrative private industry jobs that we train our students for. Whatever happens, the faculty has your back. Please feel free to schedule a time with any professor in the department to talk about your individual options.
 </details>
-
+\
 <details><summary>What is an FTE?</summary>
 FTE stands for Full Time Equivalent. It’s a way to measure the number of people working for a department. Faculty with a joint appointment will have some proportion of FTE in more than one department. A reduction in FTE means firing people.
 </details>
-
+\
 <details><summary>Why was EAS recommended for elimination?</summary>
 The recommendation was driven by a university ranking process that relied on limited and, in some cases, problematic data. This analysis placed EAS roughly 20th the bottom, but those results do not reflect the department’s actual strengths. EAS enrolls nearly 90 undergraduates, welcomed 27 new majors this fall, and supports more than 30 graduate students. Our graduates are highly successful in careers across industry, government, and education. Another factor in the recommendation was the assumption that students could receive equivalent training through the Institute for Agriculture and Natural Resources (IANR). In fact, the courses available in IANR—even with select faculty moving—do not meet the requirements for certification in meteorology or eligibility for the professional geologist licensing exam. These professional pathways remain unique to EAS.
 </details>
