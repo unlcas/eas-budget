@@ -49,7 +49,7 @@ These will be used to show the APC - and the public - why our department matters
 <li>The graduate programs are the only Earth and Atmospheric Science graduate programs in the state.</li> 
 <li>EAS has the only faculty in the state with industry experience to train students for energy and strategic minerals exploration</li></ul>
 
-<a href="https://eas.unl.edu/sites/unl.edu.cas.earth-and-atmospheric-sciences/files/media/file/EAS_quick_facts.pdf">More facts</a>
+<a href="files/EAS_quick_facts.pdf">More facts</a>
 
 **Student success**
 <ul><li>Our students are being recognized with national and international honors</li> 
@@ -70,15 +70,15 @@ These will be used to show the APC - and the public - why our department matters
 <details><summary>What is the university proposing?</summary>
 UNL is proposing to eliminate the Geology and Meteorology majors from undergrad to PhD level, and fire staff and faculty in the Department of Earth and Atmospheric Sciences, including tenured faculty. The university says that it will retain “High-performing faculty… within other UNL units to preserve educational pathways and research expertise.” The department has about 17 FTE (Full-Time Equivalent) and UNL is proposing to fire 12.
 </details>
-\
+
 <details><summary>I’m a current student. What does this proposal mean for me?</summary>
 Right now, keep doing what you’re doing. Executive Vice Chancellor Mark Button has stated that the university cares about student success, and has assured the department that students who have begun their program will be able to finish it. When asked for details, Dr. Button was unable to provide a plan. However, a commitment to student success is what has kept most EAS faculty members in academia, rather than in the more lucrative private industry jobs that we train our students for. Whatever happens, the faculty has your back. Please feel free to schedule a time with any professor in the department to talk about your individual options.
 </details>
-\
+
 <details><summary>What is an FTE?</summary>
 FTE stands for Full Time Equivalent. It’s a way to measure the number of people working for a department. Faculty with a joint appointment will have some proportion of FTE in more than one department. A reduction in FTE means firing people.
 </details>
-\
+
 <details><summary>Why was EAS recommended for elimination?</summary>
 The recommendation was driven by a university ranking process that relied on limited and, in some cases, problematic data. This analysis placed EAS roughly 20th the bottom, but those results do not reflect the department’s actual strengths. EAS enrolls nearly 90 undergraduates, welcomed 27 new majors this fall, and supports more than 30 graduate students. Our graduates are highly successful in careers across industry, government, and education. Another factor in the recommendation was the assumption that students could receive equivalent training through the Institute for Agriculture and Natural Resources (IANR). In fact, the courses available in IANR—even with select faculty moving—do not meet the requirements for certification in meteorology or eligibility for the professional geologist licensing exam. These professional pathways remain unique to EAS.
 </details>
@@ -94,15 +94,19 @@ EAS contains the only meteorology program in the state of Nebraska, and the only
 <details><summary>How would EAS elimination affect the structural deficit?</summary>
 UNL is treating faculty and staff as a cost, as if the university were employing people out of pure charity. The fact is, UNL needs faculty and staff to generate tuition and grant money, and to keep everything running smoothly. By eliminating a unique program in the state of Nebraska, this proposal would ultimately make the structural deficit worse in years to come, due to student attrition and fewer grants. If faculty were 100% cost to the institution with no benefit, they would never be hired in the first place. And if staff weren’t vital to the operation of the university, the upper administration would be reducing their own staff rather than pulling staff away from departments like EAS to support the administration instead.  
 </details>
+
 <details><summary>Does EAS do anything for the community?</summary>
 Yes! The department’s biggest outreach event is Dinosaurs & Disasters, which is held at the Morrill Hall Museum every February. We also recently started a Public Understanding of Science lecture series in honor of our former chair, Norm Smith. Individual faculty do everything from organizing summer camps to identifying rocks from photos sent to the department. EAS also supports K–12 education by teaching the geoscience courses needed for teacher certification with an endorsement in Earth and Space Science, as well as a long-standing summer field course for educators. Through this work, our impact reaches classrooms across Nebraska.
 </details>
+
 <details><summary>Will this affect tenured faculty?</summary>
 Yes! According to UNL bylaws, tenured faculty can be fired (with a year’s notice) as a result of program elimination. However, UNL is also proposing “to preserve educational pathways and research expertise,” which suggests that the program is being restructured rather than eliminated, going against the spirit of the bylaws. More importantly, this proposal would also affect untenured and non-tenure-track faculty and staff, as well as students. 
 </details>
+
 <details><summary>What is the university’s plan for alumni donations?</summary>
 The university has not shared any specific plans with EAS. Our alumni have been very generous in supporting students through scholarships and awards, including funding that helps cover the cost of the geology majors’ capstone field camp and other field experiences. At this point, it is not clear how these funds would be managed in the future.
 </details>
+
 <details><summary>If not EAS, what should the university cut?</summary>
 EAS stands against cutting any university teaching programs. There are other options. Some options may be painful, like reduction in retirement benefits or administrator salaries, but there are options that do not damage UNL’s standing or reduce our ability to give students a world-class education.
 
