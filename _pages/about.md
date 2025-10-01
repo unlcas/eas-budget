@@ -38,7 +38,7 @@ We are <a href="https://unlcba.az1.qualtrics.com/jfe/form/SV_06fbdLxkkF2L8Zo">ga
 **Submit a short audio/video message to help illustrate the impact of EAS**\
 These will be used to show the APC - and the public - why our department matters. If possible, use GEOL or METR in your file name. The following formats are recommended: .mp3, .mp4, .m4v, .mov, .wav.
 
-<a href="https://eas.unl.edu/sites/unl.edu.cas.earth-and-atmospheric-sciences/files/media/file/Optional%20Talking%20Points.pdf">Optional talking points</a>
+<a href="files/Optional_Talking_Points.pdf">Optional talking points</a>
 
 <a href="https://uofnebraska.sharepoint.com/:f:/s/UNL-EAS/EsZse1cjv5VIo33dAa2BvOkB0Mf-4L623gZeF174t0zmDA">Submit your audio/video file</a>
 
