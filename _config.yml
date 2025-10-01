@@ -42,7 +42,7 @@ author:
   scopus           : # URL   
 
 # Social media
-  linkedin         : mavis-beckson-ph-d-287381113
+
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
@@ -87,7 +87,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
