@@ -62,7 +62,7 @@ These will be used to show the APC - and the public - why our department matters
 <ul><li>Nebraska and the nation look to our faculty for insight on topical issues in Earth and Atmospheric science</li>
 <li>Media coverage of EAS faculty in the last 12 months was responsible for $4M in in equivalent ad revenue</li> 
 <li>Exceptional community engagement by EAS faculty, staff, and students</li>
-<li>Since 2005, EAS in partnership with the Nebraska State Museum conducts Dinosaurs and Disasters events, which average over 1000 community members per event</li> 
+<li>Since 2005, EAS in partnership with the Nebraska State Museum conducts <a href="https://museum.unl.edu/programs-events/annual-events/dinosaurs-disasters.html">Dinosaurs and Disasters events</a>, which average over 1000 community members per event</li> 
 <li>EAS faculty are leaders in campus-wide environmental science efforts</li></ul>
 
 ## FAQ
@@ -70,21 +70,27 @@ These will be used to show the APC - and the public - why our department matters
 <details><summary>What is the university proposing?</summary>
 UNL is proposing to eliminate the Geology and Meteorology majors from undergrad to PhD level, and fire staff and faculty in the Department of Earth and Atmospheric Sciences, including tenured faculty. The university says that it will retain “High-performing faculty… within other UNL units to preserve educational pathways and research expertise.” The department has about 17 FTE (Full-Time Equivalent) and UNL is proposing to fire 12.
 </details>
+
 <details><summary>I’m a current student. What does this proposal mean for me?</summary>
 Right now, keep doing what you’re doing. Executive Vice Chancellor Mark Button has stated that the university cares about student success, and has assured the department that students who have begun their program will be able to finish it. When asked for details, Dr. Button was unable to provide a plan. However, a commitment to student success is what has kept most EAS faculty members in academia, rather than in the more lucrative private industry jobs that we train our students for. Whatever happens, the faculty has your back. Please feel free to schedule a time with any professor in the department to talk about your individual options.
 </details>
+
 <details><summary>What is an FTE?</summary>
 FTE stands for Full Time Equivalent. It’s a way to measure the number of people working for a department. Faculty with a joint appointment will have some proportion of FTE in more than one department. A reduction in FTE means firing people.
 </details>
+
 <details><summary>Why was EAS recommended for elimination?</summary>
 The recommendation was driven by a university ranking process that relied on limited and, in some cases, problematic data. This analysis placed EAS roughly 20th the bottom, but those results do not reflect the department’s actual strengths. EAS enrolls nearly 90 undergraduates, welcomed 27 new majors this fall, and supports more than 30 graduate students. Our graduates are highly successful in careers across industry, government, and education. Another factor in the recommendation was the assumption that students could receive equivalent training through the Institute for Agriculture and Natural Resources (IANR). In fact, the courses available in IANR—even with select faculty moving—do not meet the requirements for certification in meteorology or eligibility for the professional geologist licensing exam. These professional pathways remain unique to EAS.
 </details>
+
 <details><summary>Why shouldn’t EAS be eliminated?</summary>
 EAS contains two programs that are unique in Nebraska: geology and meteorology. Our faculty embody the “Odyssey to the Extraordinary,” with NSF Career Grant awardees, Fulbright fellows, and even a member of the National Academy of Sciences. Experiential learning is built into our curriculum, with upcoming field trips planned to the Four Corners region and to Iceland. Our faculty work on Nebraska problems, like tornadoes and uranium contamination, and opportunities like emerging critical minerals. Staff don’t tend to get as much credit, but the EAS staff deserve credit for keeping the place going. Our students and alumni embody Husker excellence, with very high job placement post-graduation. Also, not to be overlooked – unlike many departments, we all like each other. EAS is stronger together, and we make “The Good Life” better.  
 </details>
+
 <details><summary>How is EAS different from offerings in the Institute for Agriculture and Natural Resources (IANR)?</summary>
 EAS contains the only meteorology program in the state of Nebraska, and the only graduate-level geology program in the state of Nebraska. Undergraduate alumni can get a job as a meteorologist with the National Weather Service, or become a Professional Geologist. EAS has a broader range of earth science subdisciplines than researchers in IANR, such as structural geology and severe weather. This enables EAS to conduct research important to the State, but which wouldn’t fit in with IANR, such as tornado forecasting and research in critical minerals and energy resources. A handful of faculty pulled from EAS would not be able to achieve the success of the department as a whole. 
 </details>
+
 <details><summary>How would EAS elimination affect the structural deficit?</summary>
 UNL is treating faculty and staff as a cost, as if the university were employing people out of pure charity. The fact is, UNL needs faculty and staff to generate tuition and grant money, and to keep everything running smoothly. By eliminating a unique program in the state of Nebraska, this proposal would ultimately make the structural deficit worse in years to come, due to student attrition and fewer grants. If faculty were 100% cost to the institution with no benefit, they would never be hired in the first place. And if staff weren’t vital to the operation of the university, the upper administration would be reducing their own staff rather than pulling staff away from departments like EAS to support the administration instead.  
 </details>
