@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # url
+  avatar           : "https://eas.unl.edu/sites/unl.edu.cas.earth-and-atmospheric-sciences/files/media/image/n-eas.png"
   name             : # name
   bio              : "Department of Earth and Atmospheric Sciences"
   location         : "Lincoln, NE"
   employer         : "University of Nebraska–Lincoln"
   uri              : # URL
-  email            : "mbeckson2@nebraska.edu" 
+  email            : "eas@unl.edu" 
 
   # Academic websites
   academia         : # URL
