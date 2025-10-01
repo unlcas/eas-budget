@@ -71,7 +71,7 @@ These will be used to show the APC - and the public - why our department matters
 
 ## FAQ
 
-<details><summary>What is the university proposing?</summary>
+<details style="margin-bottom: 1em;"><summary>What is the university proposing?</summary>
 UNL is proposing to eliminate the Geology and Meteorology majors from undergrad to PhD level, and fire staff and faculty in the Department of Earth and Atmospheric Sciences, including tenured faculty. The university says that it will retain “High-performing faculty… within other UNL units to preserve educational pathways and research expertise.” The department has about 17 FTE (Full-Time Equivalent) and UNL is proposing to fire 12.
 </details>
 
