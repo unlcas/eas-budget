@@ -41,6 +41,8 @@ These will be used to show the APC - and the public - why our department matters
 
 <a href="https://uofnebraska.sharepoint.com/:f:/s/UNL-EAS/EsZse1cjv5VIo33dAa2BvOkB0Mf-4L623gZeF174t0zmDA">Submit your audio/video file</a>
 
+<hr>
+
 ## Quick Facts About EAS
 
 **Academic uniqueness**
@@ -48,8 +50,6 @@ These will be used to show the APC - and the public - why our department matters
 <li>The Geology degree is the only avenue at UNL for students to qualify for licensure as Licensed Professional Geologists.</li>  
 <li>The graduate programs are the only Earth and Atmospheric Science graduate programs in the state.</li> 
 <li>EAS has the only faculty in the state with industry experience to train students for energy and strategic minerals exploration</li></ul>
-
-<a href="files/EAS_quick_facts.pdf">More facts</a>
 
 **Student success**
 <ul><li>Our students are being recognized with national and international honors</li> 
@@ -64,6 +64,10 @@ These will be used to show the APC - and the public - why our department matters
 <li>Exceptional community engagement by EAS faculty, staff, and students</li>
 <li>Since 2005, EAS in partnership with the Nebraska State Museum conducts <a href="https://museum.unl.edu/programs-events/annual-events/dinosaurs-disasters.html">Dinosaurs and Disasters events</a>, which average over 1000 community members per event</li> 
 <li>EAS faculty are leaders in campus-wide environmental science efforts</li></ul>
+
+<a href="files/EAS_quick_facts.pdf">More facts</a>
+
+<hr>
 
 ## FAQ
 
