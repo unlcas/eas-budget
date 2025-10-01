@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "EAS Budget Information"
+title                    : "Mavis Boatemaa Beckson"
 title_separator          : "-"
-name                     : &name "EAS Budget Information"
-description              : &description "EAS Budget Information"
-url                      : https://eas-budget.github.io
+name                     : &name "Mavis Beckson"
+description              : &description "Mavis Beckson's Webpage"
+url                      : https://mbeckson2.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://placehold.co/200x200"
+  avatar           : "https://engl.unl.edu/sites/unl.edu.cas.english/files/styles/1_1_960x960/public/node/person/photo/2024-12/Mavis_Beckson-sq.jpg"
   name             : # name
-  bio              : "Department of Earth and Atmospheric Sciences"
+  bio              : "Assistant Professor, Department of English"
   location         : "Lincoln, NE"
   employer         : "University of Nebraska–Lincoln"
   uri              : # URL
-  email            : "eas@unl.edu" 
+  email            : "mbeckson2@nebraska.edu" 
 
   # Academic websites
   academia         : # URL
@@ -42,7 +42,7 @@ author:
   scopus           : # URL   
 
 # Social media
-
+  linkedin         : mavis-beckson-ph-d-287381113
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
