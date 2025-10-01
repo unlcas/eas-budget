@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Mavis Boatemaa Beckson"
+title                    : "EAS Budget Information"
 title_separator          : "-"
-name                     : &name "Mavis Beckson"
-description              : &description "Mavis Beckson's Webpage"
+name                     : &name ""
+description              : &description "EAS Budget Information"
 url                      : https://mbeckson2.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
