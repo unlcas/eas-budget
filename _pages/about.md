@@ -25,7 +25,7 @@ Dr. Clinton Rowe, EAS Department Chair
 
 <a href="files/EAS_quick_facts.pdf" style="color:#d00000;">Read the full statement</a>
 
-For media inquiries please contact <a href="https://eas.unl.edu/person/adam-houston/">Dr. Adam Houston</a> or <a href="https://eas.unl.edu/person/sherilyn-fritz/">Dr. Sherilyn Fritz</a>.
+For media inquiries please contact <a href="https://eas.unl.edu/person/adam-houston/" style="color:#d00000;">Dr. Adam Houston</a> or <a href="https://eas.unl.edu/person/sherilyn-fritz/" style="color:#d00000;">Dr. Sherilyn Fritz</a>.
 
 <hr>
 
