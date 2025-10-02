@@ -50,7 +50,7 @@ These will be used to show the APC - and the public - why our department matters
 
 ## Quick Facts About EAS
 
-**Academic uniqueness**
+<span style="margin-bottom: .5px;">**Academic uniqueness**</span>
 <ul style="margin-top: .5px"><li>The EAS Department offers the only Atmospheric Science degree in the state, let alone the NU system, that qualifies recipients to work for the National Weather Service.</li>
 <li>The Geology degree is the only avenue at UNL for students to qualify for licensure as Licensed Professional Geologists.</li>  
 <li>The graduate programs are the only Earth and Atmospheric Science graduate programs in the state.</li> 
