@@ -17,7 +17,7 @@ Cutting EAS would mean cutting research and education on <a href="https://nebras
 
 <li><a href="https://apc.unl.edu/fall-2025-budget-reduction-information/" style="color:#d00000;">Academic Planning Committee Hearing Schedule</a></li></ul>
 
-<hr>
+<div style="text-align: center; font-size: 2.5em; background-color: #d00000; width: 100%; line-height: 1.5;font-color: #ffffff; margin-top: 1.5em; margin-bottom: 1.5em;"><strong>Budget cuts don't stop storms and floods</strong></div>
 
 ## EAS Statement
 
