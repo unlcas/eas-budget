@@ -46,7 +46,7 @@ These will be used to show the APC - and the public - why our department matters
 
 <a href="https://uofnebraska.sharepoint.com/:f:/s/UNL-EAS/EsZse1cjv5VIo33dAa2BvOkB0Mf-4L623gZeF174t0zmDA" style="color:#d00000;">Submit your audio/video file</a>
 
-<hr>
+<img src="images/eas-block-3.png" alt="EAS" style="margin: 1em 0;" />
 
 ## Quick Facts About EAS
 
@@ -72,7 +72,7 @@ These will be used to show the APC - and the public - why our department matters
 
 <a href="files/EAS_quick_facts.pdf" style="color:#d00000;">More facts</a>
 
-<hr>
+<img src="images/eas-block-4.png" alt="EAS" style="margin: 1em 0;" />
 
 ## FAQ
 
