@@ -50,21 +50,21 @@ These will be used to show the APC - and the public - why our department matters
 
 ## Quick Facts About EAS
 
-<span style="margin-bottom: .5px;">**Academic uniqueness**</span>
-<ul style="margin-top: .5px"><li>The EAS Department offers the only Atmospheric Science degree in the state, let alone the NU system, that qualifies recipients to work for the National Weather Service.</li>
+**Academic uniqueness**
+<ul><li>The EAS Department offers the only Atmospheric Science degree in the state, let alone the NU system, that qualifies recipients to work for the National Weather Service.</li>
 <li>The Geology degree is the only avenue at UNL for students to qualify for licensure as Licensed Professional Geologists.</li>  
 <li>The graduate programs are the only Earth and Atmospheric Science graduate programs in the state.</li> 
 <li>EAS has the only faculty in the state with industry experience to train students for energy and strategic minerals exploration</li></ul>
 
 **Student success**
-<ul style="margin-top: .5px"><li>Our students are being recognized with national and international honors</li> 
+<ul><li>Our students are being recognized with national and international honors</li> 
 <li>Our students won Regional (U.S.) Challenge Bowl Competition of the Society of Exploration Geophysicists (SEG) in Spring 2025</li> 
 <li>Each year multiple EAS students earn UCARE fellowships to pursue independent research</li> 
 <li>Graduates are successfully employed in their field or pursuing an advanced degree (more than 92%)</li> 
 <li>EAS alumni are employed in state and federal agencies across Nebraska</li></ul>
 
 **Community Engagement**
-<ul style="margin-top: .5px"><li>Nebraska and the nation look to our faculty for insight on topical issues in Earth and Atmospheric science</li>
+<ul><li>Nebraska and the nation look to our faculty for insight on topical issues in Earth and Atmospheric science</li>
 <li>Media coverage of EAS faculty in the last 12 months was responsible for $4M in in equivalent ad revenue</li> 
 <li>Exceptional community engagement by EAS faculty, staff, and students</li>
 <li>Since 2005, EAS in partnership with the Nebraska State Museum conducts <a href="https://museum.unl.edu/programs-events/annual-events/dinosaurs-disasters.html" style="color:#d00000;">Dinosaurs and Disasters events</a>, which average over 1000 community members per event</li> 
