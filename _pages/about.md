@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-The University of Nebraska-Lincoln is proposing to close the Department of Earth & Atmospheric Sciences (EAS) as part of its <a href="https://budgetprocess.unl.edu/proposed-budget-reductions/">budget reduction plan</a>. *We strongly oppose this plan*. EAS conducts research and workforce training that is critical to the interests of Nebraska. The university has failed to consider departmental strengths such as students’ post-graduation success and alumni support, and the uniqueness of the EAS Geology and Meteorology programs.  
+The University of Nebraska-Lincoln is proposing to close the <a href="https://eas.unl.edu/">Department of Earth and Atmospheric Sciences</a> (EAS) as part of its <a href="https://budgetprocess.unl.edu/proposed-budget-reductions/">budget reduction plan</a>. *We strongly oppose this plan*. EAS conducts research and workforce training that is critical to the interests of Nebraska. The university has failed to consider departmental strengths such as students’ post-graduation success and alumni support, and the uniqueness of the EAS Geology and Meteorology programs.  
 
 Cutting EAS would mean cutting research and education on <a href="https://nebraska.edu/strategic-plan">NU Presidential priorities</a>, including critical minerals and energy resources (uranium, petroleum, natural gas, and natural/geologic hydrogen). It would mean cutting research and education on topics vital to everyday Nebraskans, such as severe storms. It would mean that no graduate from the NU flagship campus would be equipped to take the Professional Geologist licensing exam, and no one educated in Nebraska could become a federal meteorologist, period. These doors would close even if some EAS faculty were retained in other departments. *Closure of EAS removes pathways for student success. It is bad for UNL, bad for the NU system, and bad for the State of Nebraska.*
 
-<a href="https://facultysenate.unl.edu/sites/unl.edu.academic-affairs.faculty-senate/files/media/file/SEPTEMBER%2015%202025%20EMAIL%20TO%20REGENTS%20RE%20BUDGET%20REDUCTIONS.pdf">The Faculty Senate's email to the Board of Regents</a>
+<ul><li><a href="https://facultysenate.unl.edu/sites/unl.edu.academic-affairs.faculty-senate/files/media/file/SEPTEMBER%2015%202025%20EMAIL%20TO%20REGENTS%20RE%20BUDGET%20REDUCTIONS.pdf">The Faculty Senate's email to the Board of Regents</a></li>
 
-<a href="https://apc.unl.edu/fall-2025-budget-reduction-information/">Academic Planning Committee Hearing Schedule</a>
+<li><a href="https://apc.unl.edu/fall-2025-budget-reduction-information/">Academic Planning Committee Hearing Schedule</a></li></ul>
 
 <hr>
 
