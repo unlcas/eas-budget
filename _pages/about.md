@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-The University of Nebraska-Lincoln is proposing to close the <a href="https://eas.unl.edu/" style="color:#d00000;">Department of Earth and Atmospheric Sciences</a> (EAS) as part of its <a href="https://budgetprocess.unl.edu/proposed-budget-reductions/">budget reduction plan</a>. *We strongly oppose this plan*. EAS conducts research and workforce training that is critical to the interests of Nebraska. The university has failed to consider departmental strengths such as students’ post-graduation success and alumni support, and the uniqueness of the EAS Geology and Meteorology programs.  
+The University of Nebraska-Lincoln is proposing to close the <a href="https://eas.unl.edu/" style="color:#d00000;">Department of Earth and Atmospheric Sciences</a> (EAS) as part of its <a href="https://budgetprocess.unl.edu/proposed-budget-reductions/" style="color:#d00000;">budget reduction plan</a>. *We strongly oppose this plan*. EAS conducts research and workforce training that is critical to the interests of Nebraska. The university has failed to consider departmental strengths such as students’ post-graduation success and alumni support, and the uniqueness of the EAS Geology and Meteorology programs.  
 
 Cutting EAS would mean cutting research and education on <a href="https://nebraska.edu/strategic-plan">NU Presidential priorities</a>, including critical minerals and energy resources (uranium, petroleum, natural gas, and natural/geologic hydrogen). It would mean cutting research and education on topics vital to everyday Nebraskans, such as severe storms. It would mean that no graduate from the NU flagship campus would be equipped to take the Professional Geologist licensing exam, and no one educated in Nebraska could become a federal meteorologist, period. These doors would close even if some EAS faculty were retained in other departments. *Closure of EAS removes pathways for student success. It is bad for UNL, bad for the NU system, and bad for the State of Nebraska.*
 
-<ul><li><a href="https://facultysenate.unl.edu/sites/unl.edu.academic-affairs.faculty-senate/files/media/file/SEPTEMBER%2015%202025%20EMAIL%20TO%20REGENTS%20RE%20BUDGET%20REDUCTIONS.pdf">The Faculty Senate's email to the Board of Regents</a></li>
+<ul><li><a href="https://facultysenate.unl.edu/sites/unl.edu.academic-affairs.faculty-senate/files/media/file/SEPTEMBER%2015%202025%20EMAIL%20TO%20REGENTS%20RE%20BUDGET%20REDUCTIONS.pdf" style="color:#d00000;">The Faculty Senate's email to the Board of Regents</a></li>
 
-<li><a href="https://apc.unl.edu/fall-2025-budget-reduction-information/">Academic Planning Committee Hearing Schedule</a></li></ul>
+<li><a href="https://apc.unl.edu/fall-2025-budget-reduction-information/" style="color:#d00000;">Academic Planning Committee Hearing Schedule</a></li></ul>
 
 <hr>
 
@@ -23,24 +23,24 @@ Cutting EAS would mean cutting research and education on <a href="https://nebras
 
 Dr. Clinton Rowe, EAS Department Chair
 
-<a href="files/EAS_quick_facts.pdf">Read the full statement</a>
+<a href="files/EAS_quick_facts.pdf" style="color:#d00000;">Read the full statement</a>
 
 <hr>
 
 ## How can you help?
 
 **Share your perspective with the Academic Planning Committee**\
-Use <a href="https://apc.unl.edu/fall-2025-budget-reduction-feedback-form/">the APC form</a> to explain why the Department of Earth and Atmospheric Sciences matters to you, to the university, or to Nebraska. Please also share a copy of your submission with Dr. Clinton Rowe.
+Use <a href="https://apc.unl.edu/fall-2025-budget-reduction-feedback-form/" style="color:#d00000;">the APC form</a> to explain why the Department of Earth and Atmospheric Sciences matters to you, to the university, or to Nebraska. Please also share a copy of your submission with Dr. Clinton Rowe.
 
 **Share your story as a student or alum**\
-We are <a href="https://unlcba.az1.qualtrics.com/jfe/form/SV_06fbdLxkkF2L8Zo">gathering stories</a> from students and alumni to highlight the department’s impacts.
+We are <a href="https://unlcba.az1.qualtrics.com/jfe/form/SV_06fbdLxkkF2L8Zo" style="color:#d00000;">gathering stories</a> from students and alumni to highlight the department’s impacts.
 
 **Submit a short audio/video message to help illustrate the impact of EAS**\
 These will be used to show the APC - and the public - why our department matters. If possible, use GEOL or METR in your file name. The following formats are recommended: .mp3, .mp4, .m4v, .mov, .wav.
 
-<a href="files/Optional_Talking_Points.pdf">Optional talking points</a>
+<a href="files/Optional_Talking_Points.pdf" style="color:#d00000;">Optional talking points</a>
 
-<a href="https://uofnebraska.sharepoint.com/:f:/s/UNL-EAS/EsZse1cjv5VIo33dAa2BvOkB0Mf-4L623gZeF174t0zmDA">Submit your audio/video file</a>
+<a href="https://uofnebraska.sharepoint.com/:f:/s/UNL-EAS/EsZse1cjv5VIo33dAa2BvOkB0Mf-4L623gZeF174t0zmDA" style="color:#d00000;">Submit your audio/video file</a>
 
 <hr>
 
@@ -66,7 +66,7 @@ These will be used to show the APC - and the public - why our department matters
 <li>Since 2005, EAS in partnership with the Nebraska State Museum conducts <a href="https://museum.unl.edu/programs-events/annual-events/dinosaurs-disasters.html">Dinosaurs and Disasters events</a>, which average over 1000 community members per event</li> 
 <li>EAS faculty are leaders in campus-wide environmental science efforts</li></ul>
 
-<a href="files/EAS_quick_facts.pdf">More facts</a>
+<a href="files/EAS_quick_facts.pdf" style="color:#d00000;">More facts</a>
 
 <hr>
 
@@ -115,9 +115,9 @@ The university has not shared any specific plans with EAS. Our alumni have been 
 <details style="margin-bottom: .5em;"><summary>If not EAS, what should the university cut?</summary>
 EAS stands against cutting any university teaching programs. There are other options. Some options may be painful, like reduction in retirement benefits or administrator salaries, but there are options that do not damage UNL’s standing or reduce our ability to give students a world-class education.
 
-<a href="https://saveedad.com/">Educational Administration</a>
+<a href="https://saveedad.com/" style="color:#d00000;">Educational Administration</a>
 
-<a href="https://architecture.unl.edu/college/save-landscape-architecture/">Landscape Architecture</a>
+<a href="https://architecture.unl.edu/college/save-landscape-architecture/" style="color:#d00000;">Landscape Architecture</a>
 
-<a href="https://www.instagram.com/ilovestatisticsunl/">Statistics</a>
+<a href="https://www.instagram.com/ilovestatisticsunl/" style="color:#d00000;">Statistics</a>
 </details>
