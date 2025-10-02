@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: center; font-size: 3em; background-color: #d00000; width: 100%;"><strong><span style="font-color: #ffffff;">If you drink water, breathe air, and use energy, you should help save the Department of Earth and Atmospheric Sciences!</span></strong></div>
+<div style="text-align: center; font-size: 2.5em; background-color: #d00000; width: 100%; line-height: 1.5;font-color: #ffffff; margin-bottom: 1.5em;"><strong>If you drink water, breathe air, and use energy, you should help save the Department of Earth and Atmospheric Sciences!</strong></div>
 
 The University of Nebraska-Lincoln is proposing to close the <a href="https://eas.unl.edu/" style="color:#d00000;">Department of Earth and Atmospheric Sciences</a> (EAS) as part of its <a href="https://budgetprocess.unl.edu/proposed-budget-reductions/" style="color:#d00000;">budget reduction plan</a>. *We strongly oppose this plan*. EAS conducts research and workforce training that is critical to the interests of Nebraska. The university has failed to consider departmental strengths such as students’ post-graduation success and alumni support, and the uniqueness of the EAS Geology and Meteorology programs.  
 
