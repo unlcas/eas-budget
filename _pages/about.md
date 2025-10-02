@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="https://placehold.co/800x300" alt="image" style="margin-bottom: 1.5em;" />
+<img src="files/eas-block-1.png" alt="Save EAS" style="margin-bottom: 1em;" />
 
 The University of Nebraska-Lincoln is proposing to close the <a href="https://eas.unl.edu/" style="color:#d00000;">Department of Earth and Atmospheric Sciences</a> (EAS) as part of its <a href="https://budgetprocess.unl.edu/proposed-budget-reductions/" style="color:#d00000;">budget reduction plan</a>. *We strongly oppose this plan*. EAS conducts research and workforce training that is critical to the interests of Nebraska. The university has failed to consider departmental strengths such as students’ post-graduation success and alumni support, and the uniqueness of the EAS Geology and Meteorology programs.  
 
