@@ -3,7 +3,7 @@ title: 'Proposed for Elimination'
 date: 2025-10-02
 permalink: /posts/2025/10/proposed-for-elimination/
 ---
-![If you drink water, breathe air, and use energy, you should help save the Department of Earth and Atmospheric Sciences](/images/eas-block-1.png)
+![If you drink water, breathe air, and use energy, you should help save the Department of Earth and Atmospheric Sciences]({{site.baseurl}}/images/eas-block-1.png)
 
 The University of Nebraska-Lincoln is proposing to close the <a href="https://eas.unl.edu/" style="color:#d00000;">Department of Earth and Atmospheric Sciences</a> (EAS) as part of its <a href="https://budgetprocess.unl.edu/proposed-budget-reductions/" style="color:#d00000;">budget reduction plan</a>. *We strongly oppose this plan*. EAS conducts research and workforce training that is critical to the interests of Nebraska. The university has failed to consider departmental strengths such as students’ post-graduation success and alumni support, and the uniqueness of the EAS Geology and Meteorology programs.  
 
@@ -13,7 +13,7 @@ Cutting EAS would mean cutting research and education on <a href="https://nebras
 
 <li><a href="https://apc.unl.edu/fall-2025-budget-reduction-information/" style="color:#d00000;">Academic Planning Committee Hearing Schedule</a></li></ul>
 
-![Budget cuts don't stop storms and floods](/images/eas-block-2.png)
+![Budget cuts don't stop storms and floods]({{site.baseurl}}/images/eas-block-2.png)
 
 ## EAS Statement
 
@@ -21,7 +21,7 @@ Cutting EAS would mean cutting research and education on <a href="https://nebras
 
 Dr. Clinton Rowe, EAS Department Chair
 
-<a href="/files/EAS_quick_facts.pdf" style="color:#d00000;">Read the full statement</a>
+[Read the full statement]({{site.baseurl}}/files/EAS_quick_facts.pdf)
 
 For media inquiries please contact <a href="https://eas.unl.edu/person/adam-houston/" style="color:#d00000;">Dr. Adam Houston</a> or <a href="https://eas.unl.edu/person/sherilyn-fritz/" style="color:#d00000;">Dr. Sherilyn Fritz</a>.
 
@@ -38,11 +38,11 @@ We are <a href="https://unlcba.az1.qualtrics.com/jfe/form/SV_06fbdLxkkF2L8Zo" st
 **Submit a short audio/video message to help illustrate the impact of EAS**\
 These will be used to show the APC - and the public - why our department matters. If possible, use GEOL or METR in your file name. The following formats are recommended: .mp3, .mp4, .m4v, .mov, .wav.
 
-<a href="/files/Optional_Talking_Points.pdf" style="color:#d00000;">Optional talking points</a>
+[Optional talking points]({{site.baseurl}}/files/Optional_Talking_Points.pdf)
 
 <a href="https://uofnebraska.sharepoint.com/:f:/s/UNL-EAS/EsZse1cjv5VIo33dAa2BvOkB0Mf-4L623gZeF174t0zmDA" style="color:#d00000;">Submit your audio/video file</a>
 
-![We are Nebraska's earth and sky](/images/eas-block-3.png)
+![We are Nebraska's earth and sky]({{site.baseurl}}/images/eas-block-3.png)
 
 ## Quick Facts About EAS
 
@@ -66,9 +66,9 @@ These will be used to show the APC - and the public - why our department matters
 <li>Since 2005, EAS in partnership with the Nebraska State Museum conducts <a href="https://museum.unl.edu/programs-events/annual-events/dinosaurs-disasters.html" style="color:#d00000;">Dinosaurs and Disasters events</a>, which average over 1000 community members per event</li> 
 <li>EAS faculty are leaders in campus-wide environmental science efforts</li></ul>
 
-<a href="/files/EAS_quick_facts.pdf" style="color:#d00000;">More facts</a>
+[More facts]({{site.baseurl}}/files/EAS_quick_facts.pdf)
 
-![EASy choice: keep EAS](/images/eas-block-4.png)
+![EASy choice: keep EAS]({{site.baseurl}}/images/eas-block-4.png)
 
 ## FAQ
 

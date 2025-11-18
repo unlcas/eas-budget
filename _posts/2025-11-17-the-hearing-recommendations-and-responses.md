@@ -1,14 +1,14 @@
 ---
 title: 'The Hearing, Recommendations, and Responses'
 date: 2025-11-17
-permalink: /posts/2025/11/update-11-17-25/
+permalink: /posts/2025/11/the-hearing-recommendations-and-responses/
 redirect_from: 
  - /
 ---
 
-Thank you to those who have supported EAS thus far, with letters, comments to the APC and testimony!  If you are new to this story, please see our [previous post](/posts/2025/10/proposed-for-elimination/). You can find the full text of the narrative that we gave to the APC [here](/files/EAS_Response_to_APC.pdf) and the video of the hearing on October 10, 2025, [here](https://mediahub.unl.edu/media/25758). We noted that the justification read into the record was not the one we had been given in September and our response to the APC is [here](/files/APC_additional_information.pdf).
+Thank you to those who have supported EAS thus far, with letters, comments to the APC and testimony!  If you are new to this story, please see our [previous post]({{site.baseurl}}/posts/2025/10/proposed-for-elimination/). You can find the full text of the narrative that we gave to the APC [here]({{site.baseurl}}/files/EAS_Response_to_APC.pdf) and the video of the hearing on October 10, 2025, [here](https://mediahub.unl.edu/media/25758). We noted that the justification read into the record was not the one we had been given in September and our response to the APC is [here]({{site.baseurl}}/files/APC_additional_information.pdf).
 
-On October 31, 2025, the APC recommendations were made public. The full text of this report is available [here](https://budgetprocess.unl.edu/sites/unl.edu.budget-process/files/media/file/20251024_apc_recommendation.pdf).  Note that the APC recommendation was against elimination of EAS. Community and alumni letters and emails to the APC were an important part of their decision to support EAS in the face of the Chancellor’s original proposal. EAS was working on [a response](/files/Response_to_APC_vote.pdf) to the APC report when the Chancellor's recommendations were made public.
+On October 31, 2025, the APC recommendations were made public. The full text of this report is available [here](https://budgetprocess.unl.edu/sites/unl.edu.budget-process/files/media/file/20251024_apc_recommendation.pdf).  Note that the APC recommendation was against elimination of EAS. Community and alumni letters and emails to the APC were an important part of their decision to support EAS in the face of the Chancellor’s original proposal. EAS was working on [a response]({{site.baseurl}}/files/Response_to_APC_vote.pdf) to the APC report when the Chancellor's recommendations were made public.
 
 On November 10, 2025, Chancellor Rodney Bennett submitted to the NU President and Board of Regents his [final proposal](https://budgetprocess.unl.edu/final-budget-reduction-plan) that includes elimination of the Department of Earth & Atmospheric Sciences. Now, we turn our efforts toward convincing President Gold and the Board of Regents that elimination of our department and its academic and research programs will hurt the interests of the University, the State, and the people of Nebraska. 
 
