@@ -13,9 +13,9 @@ title                    : "EAS Budget Information"
 title_separator          : "-"
 name                     : &name "UNL Department of Earth and Atmospheric Sciences"
 description              : &description "EAS Budget Information"
-url                      : https://unlcas.github.io/eas-budget
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+url                      : https://unlcas.github.io
+baseurl                  : "/eas-budget" # the subpath of your site, e.g. "/blog"
+repository               : "unlcas/eas-budget"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
