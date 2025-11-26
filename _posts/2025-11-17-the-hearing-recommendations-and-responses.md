@@ -2,8 +2,6 @@
 title: 'The Hearing, Recommendations, and Responses'
 date: 2025-11-17
 permalink: /posts/2025/11/the-hearing-recommendations-and-responses/
-redirect_from: 
- - /
 ---
 
 Thank you to those who have supported EAS thus far, with letters, comments to the APC and testimony!  If you are new to this story, please see our [previous post]({{site.baseurl}}/posts/2025/10/proposed-for-elimination/). You can find the full text of the narrative that we gave to the APC [here]({{site.baseurl}}/files/EAS_Response_to_APC.pdf) and the video of the hearing on October 10, 2025, [here](https://mediahub.unl.edu/media/25758). We noted that the justification read into the record was not the one we had been given in September and our response to the APC is [here]({{site.baseurl}}/files/APC_additional_information.pdf).
