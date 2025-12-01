@@ -2,8 +2,6 @@
 title: 'Tell your Regent – Vote NO on eliminating EAS'
 date: 2025-11-26
 permalink: /posts/2025/11/tell-your-regent-vote-no-on-elminating-eas/
-redirect_from: 
- - /
 ---
 We are fast approaching the Board of Regents’ meeting on Dec 5, 9am in Varner Hall (3835 Holdrege Street, Lincoln, NE). The [agenda](https://cdn.nebraska.edu/docs/board/agendas/agenda-with-materials-12-5-25.pdf) has been released and there is a public comment section.  There are two ways to make your feelings and thoughts known to the Regents as below. If you are new to this story, check out our [previous post]({{site.baseurl}}/posts/2025/11/the-hearing-recommendations-and-responses/).
 1. **Write to your Regent!** The map of Regent districts is [here](https://nebraskalegislature.gov/about/regents_map.php). You can find information on each Regent [here](https://nebraska.edu/regents/board-members/) and their direct email addresses.
